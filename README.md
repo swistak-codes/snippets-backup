@@ -13,3 +13,4 @@ Backup of various code snippets and simple apps I keep on https://replit.com/@ts
 - `Recursion` - snippets from articles: https://swistak.codes/post/rekurencja-co-to-jest/ and https://swistak.codes/post/derekursywacja/
 - `BinarySearch` - snippets from article: https://swistak.codes/post/wyszukiwanie-w-listach/
 - `Roman` - snippets from article: https://swistak.codes/post/liczby-rzymskie/
+- `GCD` - snippets from article: https://swistak.codes/post/najwiekszy-wspolny-dzielnik/
