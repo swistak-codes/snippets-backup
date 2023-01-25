@@ -15,3 +15,5 @@ Backup of various code snippets and simple apps I keep on https://replit.com/@ts
 - `Roman` - snippets from article: https://swistak.codes/post/liczby-rzymskie/
 - `GCD` - snippets from article: https://swistak.codes/post/najwiekszy-wspolny-dzielnik/
 - `Iteration` - snippets from article: https://swistak.codes/post/iteracja-co-to-jest/
+- `Exponentiation` - snippets from article: https://swistak.codes/post/szybkie-potegowanie/
+- `Roots` - snippets from article: https://swistak.codes/post/pierwiastkowanie/
