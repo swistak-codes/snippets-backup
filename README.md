@@ -17,3 +17,4 @@ Backup of various code snippets and simple apps I keep on https://replit.com/@ts
 - `Iteration` - snippets from article: https://swistak.codes/post/iteracja-co-to-jest/
 - `Exponentiation` - snippets from article: https://swistak.codes/post/szybkie-potegowanie/
 - `Roots` - snippets from article: https://swistak.codes/post/pierwiastkowanie/
+- `Circles` - snippets from articles: https://swistak.codes/post/jak-narysowac-zegar-analogowy/ and https://swistak.codes/post/jak-narysowac-spirale/
