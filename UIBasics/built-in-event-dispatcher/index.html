@@ -1,0 +1,21 @@
+<body>
+  <div id="root">
+    <div>Licznik:</div>
+    <div id="counter">0</div>
+    <button id="increase">Zwiększ wartość</button>
+    <button id="send-to-child">Przekaż wartość do ramki niżej</button>
+    <!-- ramka symulująca zewnętrzną zawartość -->
+    <iframe
+      id="child-frame"
+      srcdoc="<div id='text' style='text-align:center;'></div>
+      <script>
+        // odbieramy wiadomość przekazaną z zewnątrz
+        // nasłuchując na zdarzenie 'message'
+        window.addEventListener('message', (event) => {
+          // wpisujemy zawartość wiadomości do elementu text
+          document.getElementById('text').innerText = event.data;
+        })
+      </script>"
+    ></iframe>
+  </div>
+</body>
