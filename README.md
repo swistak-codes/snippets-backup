@@ -6,7 +6,7 @@ Backup of various code snippets and simple apps I keep on https://replit.com/@ts
 
 - `Alphametics` - snippets from article: https://swistak.codes/post/kryptarytmy/
 - `Arraylists` - snippets from article: https://swistak.codes/post/tablice-i-listy-tablicowe/
-- `BezierCurves` — snippets from article: *not yet available*
+- `BezierCurves` — snippets from article: https://swistak.codes/post/krzywe-beziera/
 - `BinarySearch` - snippets from article: https://swistak.codes/post/wyszukiwanie-w-listach/
 - `Checksums` — snippets from article: https://swistak.codes/post/sumy-kontrolne/
 - `Circles` - snippets from articles: https://swistak.codes/post/jak-narysowac-zegar-analogowy/ and https://swistak.codes/post/jak-narysowac-spirale/
