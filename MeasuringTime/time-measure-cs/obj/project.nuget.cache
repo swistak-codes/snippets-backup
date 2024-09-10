@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0FohRLm+I3MFVzNJsX56Xln1dBwIrtDVxPqx/HUzCxec71WcTIv9D4xC8U3ewlll0JhMynk+vdWLuUEpr8eGNA==",
+  "success": true,
+  "projectFilePath": "/Users/tomaszswistak/projekty/snippets-backup/MeasuringTime/time-measure-cs/main.csproj",
+  "expectedPackageFiles": [
+    "/Users/tomaszswistak/.nuget/packages/microsoft.netcore.app.ref/6.0.29/microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "/Users/tomaszswistak/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.29/microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "/Users/tomaszswistak/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.29/microsoft.netcore.app.host.osx-arm64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
